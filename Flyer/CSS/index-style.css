@@ -6,6 +6,9 @@ a:link,a:visited{
 body{
 	font-family: "微软雅黑";
 }
+.logo{
+    transform:rotate(0.2)
+}
 /*侧边栏*/
 .aside{
 	position: fixed;
@@ -81,7 +84,7 @@ header.nav > span:nth-child(1){
 }
 header.nav span.title{
 	display: inline-block;
-	text-indent: 10px;
+	text-indent: 90px;
 }
 
 header.nav span.nav_sec{
